@@ -1,5 +1,4 @@
-# Integração MySQL e Transformação de Dados no Power BIProjeto de ETL e transformação de dados no Power BI (Power Query) integrado ao banco relacional MySQL, desenvolvido para a Formação Power BI Analyst da DIO.
-
+# Integração MySQL e Transformação de Dados no Power BI
 Projeto desenvolvido durante a **Formação Power BI Analyst** da DIO. 
 
 O objetivo aqui foi sair da base relacional bruta no MySQL , conectar o banco ao Power BI Desktop e aplicar todo o tratamento de ETL no Power Query para preparar os dados para modelagem analítica.
